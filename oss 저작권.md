@@ -13,7 +13,7 @@
 > **저작권, 개발자 및 기여자 정보**
 
 ```
-<Apache License 2.0>
+예) <Apache License 2.0>
 4. c. You must retain, in the Source form of any Derivative Works that You distribute,
 all copyright, patent, trademark, and attribution notices from the Source form of the
 Work, excluding those notices that do not pertain to any part of the Derivative Works;
@@ -24,7 +24,7 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 
 수정한 사람, 수정 일자 등 수정에 관한 내용을 포함하도록 함 (원본과 구별)
 ```
-<Apache License 2.0>
+예) <Apache License 2.0>
 2. You must cause any modified files to carry prominent notices stating that You changed the files.
 ```
 
@@ -32,7 +32,7 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 
 이용자들이 오픈소스에 관한 권리를 잘 이해할 수 있도록 배포자가 라이선스의 사본 첨부
 ```
-<Apache License 2.0>
+예) <Apache License 2.0>
 1. You must give any other recipients of the Work or Derivative Works a copy of this License.
 ```
 
@@ -42,7 +42,7 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 수정된 소프트웨어에도 동일한 라이선스로 배포할 것을 요구함
 
 ```
-<GPL 2.0>
+예) <GPL 2.0>
  
 2. You may modify your copy or copies of the Program or any portion of it, thus forming
 a work based on the Program, and copy and distribute such modifications or work under
